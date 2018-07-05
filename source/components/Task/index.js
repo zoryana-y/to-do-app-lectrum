@@ -1,7 +1,7 @@
 // Core
 import React, { Component } from 'react';
 import cx from 'classnames';
-import { string, func, bool } from 'prop-types';
+import { string, bool } from 'prop-types';
 
 
 // Instruments
